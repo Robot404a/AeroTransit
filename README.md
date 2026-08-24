@@ -8,18 +8,6 @@ The project gave us practical experience working across the entire development p
 
 ---
 
-## 🎥 Project Demo
-
-### ▶️ Watch the Demo
-
-<!-- Replace the link below with your video URL -->
-
-[**🎬 Watch the AeroTransit Demo**](YOUR_VIDEO_LINK)
-
-> The demo showcases the main functionality and user experience of the application.
-
----
-
 ## 🚀 Technologies
 
 ### Frontend
