@@ -106,7 +106,7 @@ It is also about:
 
 | Contributor            | GitHub                                                     |
 | ---------------------- | ---------------------------------------------------------- |
-| **Youssef Boulahnnya** | [@Youssefboulahnnya](https://github.com/Youssefboulahnnya) |
+| **Youssef Boulahnya** | [@Youssefboulahnnya](https://github.com/Youssefboulahnya) |
 | **Amaadid Hicham**          | [@Robot404a](https://github.com/Robot404a)                 |
 
 ---
